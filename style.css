@@ -30,5 +30,13 @@ img {
 }
 
 ul {
-	list-style-type: lower-armenian;
+	list-style-type: none;
+}
+
+.Contact {
+	text-align: center;
+}
+
+.Games {
+	display: flex;
 }
